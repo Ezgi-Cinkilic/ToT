@@ -30,7 +30,4 @@ The game’s name, *Tip of the Tongue*, refers to that feeling when you know som
 - **Timer:** The main screen features a timer to track how long each round lasts.
 - **Scoring System:** Points are earned by guessing correctly within the time limit. The person with the most correct guesses at the end of the round wins!
   
-## Installation:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/ToT-game.git
+**To play the game, simply download the ToT.apk file to your Android phone, install the app, and enable screen rotation!**

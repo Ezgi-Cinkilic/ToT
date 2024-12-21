@@ -1,4 +1,5 @@
 # ToT (Tip of the Tongue)
+![Design (1)](https://github.com/user-attachments/assets/175955f3-8ebf-4ced-aa27-f674272e5b9a)
 
 ToT (Tip of the Tongue) is a fun, fast-paced mobile word guessing game where players describe words from six exciting categories without actually saying the word. One player holds the phone and tries to guess the word based on the clues provided by the others. If the guess is correct, the player holding the phone turns the phone down; if incorrect, they turn it up. The game tests both your memory and your ability to describe things creatively!
 
